@@ -27,13 +27,13 @@ function Portfolio() {
       img: pic3,
       name: "Portfolio",
       code: "https://github.com/ayush-gupta2002/fund-me",
-      demo: "https://github.com/ayush-gupta2002/fund-me",
+      demo: "https://harshitaguptaportfolio.netlify.app/",
     },
     {
       id: 4,
       img: pic4,
       name: "Reaso.nablejewellery",
-      demo: "https://aiimagegeenerator.netlify.app/",
+      demo: "https://my-jewellery-ecommerce.vercel.app/",
       code: "https://github.com/harshita04gupta/AI-IMAGE-GENERATOR",
     },
   ];
